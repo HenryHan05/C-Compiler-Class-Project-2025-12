@@ -1,6 +1,5 @@
 # C-Compiler-Class-Project-2025-12
 //项目说明：
-//********************************************************************************* 
 /*
 源代码 → next() [词法分析] → token流 → program()/statement()/expression() [语法分析] 
      → AST节点 → tac_visit() [TAC生成] → TAC指令 → optimize_tac() [优化]
